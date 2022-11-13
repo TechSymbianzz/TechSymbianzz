@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TechSymbianzz
+- 👀 I’m interested in Embedded systems.
+- 🌱 I’m currently learning Verliog/Pearl/Python.
+- 💞️ I’m looking to collaborate on projects involving 
+- Here, is my linkedIn profile
+- https://www.linkedin.com/in/-pranav-bhutani/
